@@ -1,0 +1,22 @@
+body {
+  background-color: #99B898;
+}
+h1 {
+  color: #411F1F;
+}
+h3 {
+  color: #411F1F;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+.myDiv {
+  border: 0px outset #F5F1DA;
+  background-color: #F5F1DA;
+  text-align: left;
+}
